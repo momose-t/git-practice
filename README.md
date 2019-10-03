@@ -1,1 +1,2 @@
-ヤッホー# git-practice
+# git-practice
+ヤッホー！！
